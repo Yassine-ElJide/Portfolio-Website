@@ -2,7 +2,8 @@ export const projects = [
     {
         name: "My Portfolio Website",
         description: "This is my Portfolio Website that I made in react and Sass and I used Email.Js as an email service",
-        image:"../../images/projet1.png",
+        image:"./images/projet-1.png",
+        source: "https://github.com/Yassine-ElJide/Portfolio-Website"
     },
     // {
     //     name: "project1",

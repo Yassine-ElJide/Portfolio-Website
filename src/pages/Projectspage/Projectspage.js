@@ -7,13 +7,14 @@ export const Projectspage = () => {
   return (
     <section className="container">
         {projects.map((project, index) => {
-          const {image, description, name } = project;
+          const {image, description, name, source} = project;
           return (
             <div key={index}>
               <Project
                 image={image}
                 description={description}
                 name={name}
+                source={source}
               />
             </div>
           );
