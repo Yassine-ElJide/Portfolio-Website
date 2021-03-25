@@ -3,13 +3,16 @@ export const projects = [
         name: "My Portfolio Website",
         description: "This is my Portfolio Website that I made in react and Sass and I used Email.Js as an email service",
         image:"./images/projet-1.png",
-        source: "https://github.com/Yassine-ElJide/Portfolio-Website"
+        source: "https://github.com/Yassine-ElJide/Portfolio-Website",
+        live:""
     },
-    // {
-    //     name: "project1",
-    //     description: "project1 desc",
-    //     image:"https://reactjsexample.com/content/images/2020/01/React-MovieCards.jpg",
-    // },
+    {
+        name: "Movie App",
+        description: "A Movie App built in React",
+        image:"./images/projet-2.png",
+        source: "https://github.com/Yassine-ElJide/Movie-App",
+        live: "https://yassine-eljide.github.io/Movie-App/"
+    },
     // {
     //     name: "project2",
     //     description: "project1 desc",

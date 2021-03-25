@@ -21,6 +21,7 @@ export const Aboutpage = () => {
                 <div className="skill">REACT</div>
                 <div className="skill">NODE&amp;Express</div>
                 <div className="skill">MONGODB</div>
+                <div className="skill">SASS</div>
             </div>
         </section>
     )
