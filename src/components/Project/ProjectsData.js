@@ -2,22 +2,24 @@ export const projects = [
     {
         name: "My Portfolio Website",
         description: "This is my Portfolio Website that I made in react and Sass and I used Email.Js as an email service",
-        image:"./images/projet-1.png",
+        image:"./assets/projet-1.png",
         source: "https://github.com/Yassine-ElJide/Portfolio-Website",
         live:""
     },
     {
         name: "Movie App",
         description: "A Movie App built in React",
-        image:"./images/projet-2.png",
+        image:"./assets/projet-2.png",
         source: "https://github.com/Yassine-ElJide/Movie-App",
         live: "https://yassine-eljide.github.io/Movie-App/"
     },
-    // {
-    //     name: "project2",
-    //     description: "project1 desc",
-    //     image:"https://camo.githubusercontent.com/adf996b58444cd72ed62b2d486de161592e43586e682c32296e26d194a2b8d9d/68747470733a2f2f692e696d6775722e636f6d2f6d4c667871716d2e6a7067",
-    // },
+    {
+        name: "Expense Tracker",
+        description: "This is an Expense Tracker that I built while following a youtube tutorial It uses React.Js and Context API as a state Management and Chart.Js as long as Material UI for the CSS . It includes a voice assistant which uses Speechly to add the Data.",
+        image:"./assets/projet-3.png",
+        source: "https://github.com/Yassine-ElJide/Expense-Tracker-with-Speechly",
+        live:"https://expensetracker-speechly.netlify.app/"
+    },
     // {
     //     name: "project3",
     //     description: "project1 desc",
