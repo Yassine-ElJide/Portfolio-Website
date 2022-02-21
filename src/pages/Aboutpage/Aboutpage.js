@@ -7,11 +7,11 @@ export const Aboutpage = () => {
             <div className="aboutpage__info">
                 <h1>Web Developer</h1>
                 <p>
-                    My name is Yassine EL JIDE, I'm 18 years old I live in France .
-                    I started Web Development this year due to the passion that I founded on it. 
-                    I love doing sports especially Calisthenics bodyweight training , currently I'm
-                    in college studying Computer Science in the University Gustave Eiffel.
-                    Over this year, I learned a couple of technologies that i can make stuff with like
+                    Welcome to my Porfolio Website, I'm EL JIDE Yassine 19 years old currently at my second year
+                    of Computer Science at The University Gustave Eiffel. I'm very passionate about IT especially
+                    Web developement and CyberSecurity. Over this 2 years, I learned a couple of technologies as well
+                    as DataStructures and Algorithms that helped me develop multiple projects.
+                    Here are some technologies i work with:
                 </p>
             </div>
             <div className="aboutpage__skills">
@@ -22,6 +22,10 @@ export const Aboutpage = () => {
                 <div className="skill">NODE&amp;Express</div>
                 <div className="skill">MONGODB</div>
                 <div className="skill">SASS</div>
+                <div className="skill">C</div>
+                <div className="skill">Python</div>
+                <div className="skill">PostgreSQL</div>
+                <div className="skill">PHP</div>
             </div>
         </section>
     )
