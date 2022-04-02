@@ -6,7 +6,7 @@ export const Homepage = () => {
     return (
         <section className="homepage">
             <h1>I'm Yassine <span>EL Jide</span></h1>
-            <p>I'm a Front End Web Developer and a Computer Science Student based in France, and I love Web Development...</p>
+            <p>Welcome To My Portfolio !</p>
             <div className="social-media">
                 <button>
                     <Link to="/" target="_blank"><FaFacebook/></Link>
