@@ -10,8 +10,8 @@ export const Aboutpage = () => {
                     Welcome to my Porfolio Website, I'm EL JIDE Yassine 19 years old currently at my second year
                     of Computer Science at The University Gustave Eiffel. I'm very passionate about IT especially
                     Web developement and CyberSecurity. Over this 2 years, I learned a couple of technologies as well
-                    as DataStructures and Algorithms that helped me develop multiple projects.
-                    Here are some technologies i work with:
+                    as DataStructures and Algorithms that helped me develop multiple projects. I'm currently looking for an apprenticeship in Network & Security
+                    Here are some technologsies i work with:
                 </p>
             </div>
             <div className="aboutpage__skills">
